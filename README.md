@@ -1,7 +1,7 @@
 # TrollFriends
 this tool was created for troll your friends!
 
-[Download](https://github.com/BugGolden/TrollFriends/raw/main/TrollFriends.exe)
+> ## [Download](https://github.com/BugGolden/TrollFriends/raw/main/TrollFriends.exe)
 
 ## how to use:
 
